@@ -1,6 +1,6 @@
 Este projeto foi feito no modulo de aprendizado de conexões com Api e performance no curso do Reactjs da RocketSeat;<br> 
 
-Tecnologias e bibliotecas utilizadas: <strong>#Vite</strong> <strong>Reactjs</strong> <strong>Typescript</strong> <strong>Styled-components</strong> <strong>Axios</strong> <strong>Radix-ui</strong><br> 
+Tecnologias e bibliotecas utilizadas: <strong>#Vite</strong> <strong>#Reactjs</strong> <strong>#Typescript</strong> <strong>#Styled-components</strong> <strong>#Axios</strong> <strong>#Radix-ui</strong><br> 
 
 Como é um projeto focado em front-end, foi utilizado o json-server para simular uma api;<br> 
 
@@ -10,15 +10,15 @@ Neste projeto podemos observar o uso de rotas HTTP para inserir e buscar informa
 
 Para executar necessário 2 terminais: <br> 
 
-	Terminal 1: ```npm run dev:server```<br> 
+  Terminal 1: ```npm run dev:server```<br> 
 
-   Terminal 2: ```npm i```, depois ```npm run dev``` 
+  Terminal 2: ```npm i```, depois ```npm run dev``` 
 
    -----
 
 This project was done in the Api connections and performance learning module in RocketSeat's Reactjs course;<br>
 
-Technologies and libraries used: <strong>#Vite</strong> <strong>Reactjs</strong> <strong>Typescript</strong> <strong>Styled-components</strong> <strong>Axios</strong> <strong >Radix-ui</strong><br>
+Technologies and libraries used: <strong>#Vite</strong> <strong>#Reactjs</strong> <strong>#Typescript</strong> <strong>#Styled-components</strong> <strong>#Axios</strong> <strong >#Radix-ui</strong><br>
 
 As it is a project focused on front-end, json-server was used to simulate an api;<br>
 
