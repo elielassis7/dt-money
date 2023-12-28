@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-09-26T01:10:45.916Z"
+    },
+    {
+      "id": 2,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-09-26T01:10:45.916Z"
+    },
+    {
+      "id": 3,
+      "description": "Restaurante",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 80,
+      "createdAt": "2023-09-25T01:10:45.916Z"
+    },
+    {
+      "description": "Freelancer",
+      "category": "Renda Extra",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2023-09-26T17:30:58.441Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 9,
+      "type": "outcome",
+      "createdAt": "2023-09-26T17:51:27.671Z",
+      "id": 5
+    },
+    {
+      "description": "Unhas",
+      "category": "Beleza",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-09-26T18:04:52.796Z",
+      "id": 6
+    },
+    {
+      "description": "Sorvete",
+      "category": "sorveteria",
+      "price": 3,
+      "type": "outcome",
+      "createdAt": "2023-12-28T14:10:37.397Z",
+      "id": 7
+    }
+  ]
+}
